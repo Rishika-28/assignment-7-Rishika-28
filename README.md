@@ -1,4 +1,4 @@
-# DA5401 A7: Multi-Class Land-Cover Classification using Landsat Satellite Imagery
+# DA5401 A7: Multi-Class Model Selection using ROC and Precision-Recall Curves
 **Name:** Samyam Rishika  
 **Roll Number:** CE22B101  
 
