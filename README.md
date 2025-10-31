@@ -10,7 +10,7 @@ Each pixel in the dataset is described by **36 spectral bands**, and the objecti
 
 The project systematically evaluates multiple **machine learning models** including **KNN**, **SVM**, **Decision Tree**, **Naive Bayes**, **Logistic Regression**, and **Dummy Baseline** and later extends to **Random Forest** and **XGBoost** for ensemble comparison.  
 
-Through comprehensive evaluation using **Accuracy**, **Weighted F1-Score**, **ROC-AUC**, and **Precision–Recall Average Precision (AP)**, the goal is to identify the model that offers the most **balanced and generalizable performance**.
+Through comprehensive evaluation using **Accuracy**, **Weighted F1-Score**, **ROC-AUC**, and **Precision-Recall Average Precision (AP)**, the goal is to identify the model that offers the most **balanced and generalizable performance**.
 
 ---
 
@@ -36,7 +36,7 @@ jupyter notebook assignment7.ipynb
    - Download and parse the **Landsat Satellite Dataset** from UCI.
    - Perform **data cleaning, normalization, and visualization**.
    - Train and evaluate multiple classifiers (KNN, SVM, Decision Tree, Naive Bayes, Logistic Regression, Dummy).
-   - Compute **One-vs-Rest ROC** and **Precision–Recall Curves** for each model.
+   - Compute **One-vs-Rest ROC** and **Precision-Recall Curves** for each model.
    - Compare model performance based on **Accuracy**, **F1**, **ROC-AUC**, and **mAP (mean Average Precision)**.
    - Extend analysis with **Random Forest** and **XGBoost** ensembles for performance benchmarking, and come up with a model whose AUC < 0.5
 
